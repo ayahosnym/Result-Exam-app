@@ -1,22 +1,10 @@
 {
   "students": [
     {
-      "name": "aya hosnymohamed ",
+      "name": "aya hosny mohamed mohmed ",
       "email": "ayahosny091@gmail.com",
-      "password": "123Aya hosny",
+      "password": "123Ayahosny",
       "id": "5001"
-    },
-    {
-      "name": "asmaa hosny mohamed",
-      "email": "asmaahosny873@gmail.com",
-      "password": "123Asmaa",
-      "id": "5005"
-    },
-    {
-      "name": "heeee hshshsh whwhwhwh",
-      "email": "yyayhslelelR12@yahoo.com",
-      "password": "123Ayayagrgr",
-      "id": "5004"
     }
   ],
   "results": [
