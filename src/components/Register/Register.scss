@@ -1,0 +1,13 @@
+@import "commonStyle.scss";
+
+// input {
+//   background: $secondary-color;
+// }
+
+section#register {
+  @include padding-height;
+
+  button {
+    background: $dark-color;
+  }
+}

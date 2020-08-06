@@ -1,0 +1,48 @@
+{
+  "students": [
+    {
+      "name": "aya hosnymohamed ",
+      "email": "ayahosny091@gmail.com",
+      "password": "123Aya hosny",
+      "id": "5001"
+    },
+    {
+      "name": "asmaa hosny mohamed",
+      "email": "asmaahosny873@gmail.com",
+      "password": "123Asmaa",
+      "id": "5005"
+    },
+    {
+      "name": "heeee hshshsh whwhwhwh",
+      "email": "yyayhslelelR12@yahoo.com",
+      "password": "123Ayayagrgr",
+      "id": "5004"
+    }
+  ],
+  "results": [
+    {
+      "id": 5001,
+      "result": 870
+    },
+    {
+      "id": 5002,
+      "result": 910
+    },
+    {
+      "id": 5003,
+      "result": 520
+    },
+    {
+      "id": 5004,
+      "result": 755
+    },
+    {
+      "id": 5005,
+      "result": 460
+    },
+    {
+      "id": 5006,
+      "result": 740
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+@import "commonStyle.scss";
+
+section#login {
+  @include padding-height;
+
+  button {
+    background: $dark-color;
+  }
+}

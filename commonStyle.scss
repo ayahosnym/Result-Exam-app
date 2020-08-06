@@ -1,0 +1,20 @@
+// variables
+$primary-color: #e7dfd5;
+$secondary-color: #84a9ac;
+$dark-color: #204051;
+
+//mixins commen style
+
+@mixin padding-height {
+  padding-top: 10rem;
+  height: 100vh;
+}
+// @include name;
+
+@mixin name2($par1, $par2) {
+  height: $par1;
+  width: $par2;
+}
+
+
+// @include name;
