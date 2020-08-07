@@ -17,7 +17,7 @@ export default function Navigation() {
           <Link to="/profile">Profile</Link>
         </li>
         <li>
-          <Link to="/login">Log Out</Link>
+          <Link to="/login" onClick={logout}>Log Out</Link>
         </li>
       </ul>
     </nav>
